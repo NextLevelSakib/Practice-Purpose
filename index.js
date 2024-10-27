@@ -5,7 +5,4 @@ function sum(a, b) {
     return sum1 + sum2;
 }
 
-const Sum = sum(5, 5);
-
-
-console.log(Sum)
+console.log(sum(5, 5))
